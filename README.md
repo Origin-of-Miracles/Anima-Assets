@@ -63,9 +63,9 @@ Anima-Assets/
 
 感谢所有为本项目做出贡献的开发者和创作者！
 
-[![Contributors](https://img.shields.io/github/contributors/Origin-of-Miracles/Anima-Assets?style=for-the-badge&logo=github&label=贡献者)](https://github.com/Origin-of-Miracles/Anima-Assets/graphs/contributors)
-
-查看完整 [贡献者列表](https://github.com/Origin-of-Miracles/Anima-Assets/graphs/contributors)
+<a href="https://github.com/Origin-of-Miracles/Anima-Assets/graphs/contributors">
+  <img alt="contributors" src="https://contrib.rocks/image?repo=Origin-of-Miracles/Anima-Assets" />
+</a>
 
 ---
 
