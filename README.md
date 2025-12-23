@@ -1,4 +1,4 @@
-# 🎨 Anima-Assets
+# Anima-Assets
 
 > **Origin of Miracles** 项目的外部资源仓库  
 > 存放学生人格配置、GeckoLib 模型、动画和纹理文件
@@ -9,7 +9,7 @@
 
 ---
 
-## 📦 仓库用途
+## 仓库用途
 
 本仓库为 [Anima](https://github.com/Origin-of-Miracles/Anima) 模组提供：
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 📂 目录结构
+## 目录结构
 
 ```
 Anima-Assets/
@@ -35,7 +35,7 @@ Anima-Assets/
 
 ---
 
-## 🚀 使用方式
+## 使用方式
 
 ### 下载发布版本
 
@@ -45,11 +45,11 @@ Anima-Assets/
 
 ---
 
-## 🤝 贡献内容
+## 贡献内容
 
 欢迎为项目贡献新学生的人格配置和模型！
 
-**完整贡献指南：** [查看文档](https://origin-of-miracles.github.io/Docs/contribute/resources)
+**完整贡献指南：** [查看文档](https://bluearchive.shinoyuki.cn/contribute/)
 
 **简要步骤：**
 1. Fork 本仓库
@@ -59,7 +59,7 @@ Anima-Assets/
 
 ---
 
-## 💖 致谢贡献者
+## 致谢贡献者
 
 感谢所有为本项目做出贡献的开发者和创作者！
 
@@ -69,17 +69,17 @@ Anima-Assets/
 
 ---
 
-## 📜 许可证
+## 许可证
 
 本仓库采用 **[CC BY-NC-SA 4.0](LICENSE)** 许可证。
 
-- ✅ 允许：自由使用、修改、分享
-- ❌ 禁止：商业用途（包括付费服务器）
-- 📝 要求：署名原作者、相同方式共享
+- 允许：自由使用、修改、分享
+- 禁止：商业用途（包括付费服务器）
+- 要求：署名原作者、相同方式共享
 
 ---
 
-## 🔗 相关链接
+## 相关链接
 
 - [Anima 模组主仓库](https://github.com/Origin-of-Miracles/Anima)
 - [项目文档](https://origin-of-miracles.github.io/Docs/)
@@ -89,6 +89,6 @@ Anima-Assets/
 ---
 
 <p align="center">
-  <strong>Made with ❤️ by Origin of Miracles Community</strong><br>
+  <strong>Made with Love by Origin of Miracles Community</strong><br>
   <sub>NOT AN OFFICIAL MINECRAFT/BLUE ARCHIVE PRODUCT</sub>
 </p>
